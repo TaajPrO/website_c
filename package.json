@@ -1,0 +1,17 @@
+{
+  "name": "chatgpt-openrouter-starter",
+  "version": "1.0.0",
+  "description": "Single-file React (via CDN) chatbot + Express proxy to OpenRouter. Unzip -> npm install -> npm start",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7",
+    "dotenv": "^16.0.3"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
