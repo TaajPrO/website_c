@@ -30,3 +30,4 @@ that proxies requests to the OpenRouter API so you don't expose your API key in 
 - Default model: `openrouter/auto`. Change `OPENROUTER_MODEL` in `.env` if you want another model available via OpenRouter.
 - This setup is intentionally small and dependency-light (no build step). It uses React and Babel in the browser via CDN for convenience.
 # website_c
+# website_c
